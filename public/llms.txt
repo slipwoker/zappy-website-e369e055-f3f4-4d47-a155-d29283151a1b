@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://-e369e055.zappy5.app
+https://example.com
 מחפש אתר הזמנות מהיר ונוח? ב&#39;שישי ברקס&#39; תוכל לנהל בקלות את ההזמנה שלך, לגלות חוויות ייחודיות, ולהבטיח מקום בלחיצת כפתור. הצטרף עכשיו והתחל לתכנן את הרגעים הבלתי נשכחים שלך!
 
 ### חוויות
-https://-e369e055.zappy5.app/experiences
+https://example.com/experiences
 מטיסות ועד הרפתקאות מקומיות: דפדף בין מגוון חוויות מרגשות ב&#39;שישי ברקס&#39;. נהל את ההזמנה שלך כמו united airlines manage booking וגלה אפשרויות שמותאמות בדיוק בשבילך. איזו חוויה תבחר היום?
 
 ### אודות
-https://-e369e055.zappy5.app/about
+https://example.com/about
 ב&#39;שישי ברקס&#39; אנחנו הופכים את תהליך ההזמנה לפשוט ומהיר, בדיוק כמו united manage my booking. הכירו את הצוות, החזון והתשוקה שמאחורי מערכת ההזמנות שתשנה את הדרך בה אתם מתכננים חופשות. קראו עוד וגלו מי אנחנו.
 
 ### צור קשר
-https://-e369e055.zappy5.app/contact
+https://example.com/contact
 יש שאלה לגבי ההזמנה שלך? צוות &#39;שישי ברקס&#39; כאן לעזור, כמו aegean airlines manage booking, אנחנו זמינים לכל בקשה. מלא את הטופס, שלח הודעה, וקבל מענה מהיר שיקרב אותך לחוויה שחלמת עליה. פנה אלינו עכשיו!
 
 ### Products
-https://-e369e055.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - שישי ברקס
 
 ### Cart
-https://-e369e055.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-e369e055.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-e369e055.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-e369e055.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-e369e055.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-e369e055.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - שישי ברקס
 
 ### Category
-https://-e369e055.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - שישי ברקס
 
 ### תודה שפניתם אלינו
-https://-e369e055.zappy5.app/thank-you
+https://example.com/thank-you
 שישי ברקס - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-e369e055.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-e369e055.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-e369e055.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -97,8 +97,8 @@ Reservations / Booking
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-e369e055.zappy5.app/sitemap.xml
-- Robots: https://-e369e055.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-e369e055.zappy5.app/llms-full.txt
-- Products (JSON): https://-e369e055.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-e369e055.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
